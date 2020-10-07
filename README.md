@@ -8,5 +8,5 @@ The repository contains code for the COCO model (Osth and Dennis, 2015) used in 
 ### Usage
 *cocoFit.py* is the main file. Go to line 1596 to change any settings for the model fitting parameters, which includes:
 * DE-MCMC settings (currently set as described in the paper)
-* fit for adults, 7-8yrs, 4-5yrs
+* fit function and prediction function for adults, 7-8yrs, 4-5yrs
 * plotting posterior distributions, model fits, decomposed noises
